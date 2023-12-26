@@ -13,7 +13,7 @@ Please feel free to get in touch at [sawynet@gmail.com](mailto:sawwynet@gmail.co
 
 [Download my resume](./Alsawy_Mohamed.pdf)
 
-[Check out my portfolio](./portfolio)
+[Check out my portfolio](.//portfolio)
 
 [I provide consulting services](./consulting.md)
 
