@@ -11,7 +11,7 @@ I'm Alsawy Mohamed, Data-driven and results-oriented Data/Business Analyst with 
 
 Please feel free to get in touch at [sawynet@gmail.com](mailto:sawwynet@gmail.com). 
 
-[Download my resume](./resume.pdf)
+[Download my resume](./Alsawy_Mohamed.pdf)
 
 [Check out my portfolio](./portfolio.md)
 

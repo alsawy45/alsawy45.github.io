@@ -1,0 +1,7 @@
+theme: jekyll-theme-minimal
+plugins:
+- jekyll-remote-theme
+
+title: Hi, I'm Mona.
+logo: /assets/img/profile.png
+#description: Data Scientist, manager, and educator.
