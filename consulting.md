@@ -33,6 +33,6 @@ layout: default
 
 ## Contact
 
-Interested in speaking further about how I can support you and your team? Send me a message at [sawynet@gmail.com](mailto:sawynet@gmail.com) and [Mobile,WhatsAp,Telegram, Imo, Line](+201227449076).
+Interested in speaking further about how I can support you and your team? Send me a message at [sawynet@gmail.com](mailto:sawynet@gmail.com) and [Mobile,WhatsAp,Telegram, Imo, Line][+201227449076].
 
 [Home](./)
