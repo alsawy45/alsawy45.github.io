@@ -2,11 +2,23 @@
 layout: default
 ---
 
-I'm Alsawy Mohamed, Data-driven and results-oriented Data/Business Analyst with 10+ years of experience uncovering insights and driving improvements across diverse industries. Proficient in Power BI, Tableau, Python, and various Python libraries. Proven ability to:
+Headline:
 
- - Analyze large datasets using statistical methods and identify key trends and patterns.  Communicate complex data insights effectively to stakeholders through compelling reports and visualizations.
- - Develop and implement data-driven solutions to optimize processes and solve business problems.
- Collaborate effectively with cross-functional teams to deliver actionable results.
+ -  Telecom to Data Wiz: Bridging the gap between business and analysis
+ -  Leveraging 17+ years in Telecom for Data-Driven Business Solutions
+ -  MBA, Data Analyst, Former Telecom Pro: My Unique Path to Business Insight
+
+About Me/Summary:
+
+I transitioned from a successful 17-year career in telecom as an activation team manager for fixed-broadband to become a data/business analyst, fueled by a passion for using data to drive informed decisions. My journey through telecom, coupled with an MBA and intensive data analysis studies, has equipped me with:
+
+ -  In-depth understanding of the telecom industry and its challenges.
+ -  Strong business acumen and strategic thinking.
+ -  Expertise in data analysis, modeling, and visualization.
+ -  Excellent communication and collaboration skills.
+ -  A blend of technical proficiency and business sense.
+
+I'm currently freelancing, eager to apply my diverse skills and experience to help businesses unlock the power of data. Let's connect and explore how I can help you gain valuable insights and make data-driven decisions.
 
 
 Please feel free to get in touch at [sawynet@gmail.com](mailto:sawwynet@gmail.com). 
@@ -17,4 +29,4 @@ Please feel free to get in touch at [sawynet@gmail.com](mailto:sawwynet@gmail.co
 
 [Unlock my data-driven adventures:](./check_my_work.md)
 
-[I provide consulting services](./consulting.md)
+[I provide freelance Services](./consulting.md)
