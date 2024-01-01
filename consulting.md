@@ -4,9 +4,9 @@ layout: default
 
 ## Headline:
 
-     - Unleashing Data's Power for Business Solutions
-     - Transforming Telecom Insights into Actionable Strategies
-     - Bridging Business and Data: Services for Informed Decisions
+	     - Unleashing Data's Power for Business Solutions
+	     - Transforming Telecom Insights into Actionable Strategies
+	     - Bridging Business and Data: Services for Informed Decisions
 
 ## Services List:
 
