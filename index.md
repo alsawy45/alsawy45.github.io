@@ -15,4 +15,6 @@ Please feel free to get in touch at [sawynet@gmail.com](mailto:sawwynet@gmail.co
 
 [Check out my portfolio](./portfolio.md)
 
+[Unlock my data-driven adventures:](./check_my_work.md)
+
 [I provide consulting services](./consulting.md)
